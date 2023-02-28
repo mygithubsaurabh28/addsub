@@ -1,0 +1,32 @@
+#main{
+    text-align: center;
+    margin:150px;;
+}
+
+.txtv{
+    border: 1px solid black;
+    width: 200px;
+    height: 18px;
+}
+
+#btnadd{
+    padding: 8px;
+    background-color: blue;
+    color: azure;
+    margin-top: 10px;
+    width: 205px;;
+    border-style: none;
+    border-radius: 5px;
+}
+
+#btnsub{
+
+    padding: 8px;
+    background-color:red;
+    color: azure;
+    margin-top: 10px;
+    width: 205px;;
+    border-style: none;
+    border-radius: 5px;
+
+}
